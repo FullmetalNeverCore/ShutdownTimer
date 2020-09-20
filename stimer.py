@@ -1,4 +1,5 @@
 import subprocess
+
 print('0:Seconds')
 print('1:Minutes')
 minorsec = input('Want to use minutes or seconds? ')
